@@ -1,0 +1,30 @@
+h1 {
+    font: verdana, 2em;
+    color: #DE101D;
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+    color: #850F16;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left; 
+}
+
+img {
+    border: 2px solid black;
+    height: auto;
+    width: 450px;
+    margin: 0 auto;
+    display: block;
+}
+
+div {
+    background-color: #DB5B0B;
+    border: 2px solid #8F3C09;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
